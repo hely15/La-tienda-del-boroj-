@@ -95,11 +95,4 @@ if (proveedoresRazonSocial.length > 0) {
   print("No se encontraron proveedores con razón social");
 }
 
-print("\n=== PATRONES REGEX UTILIZADOS ===");
-print("^ - Inicio de cadena");
-print("$ - Final de cadena");
-print("i - Insensible a mayúsculas/minúsculas");
-print("\\d - Dígitos");
-print("[aeiou] - Conjunto de caracteres");
-print("| - OR lógico");
-print("\nConsultas con expresiones regulares completadas exitosamente!");
+
